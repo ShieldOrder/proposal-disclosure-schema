@@ -1,7 +1,7 @@
 README.md
 
-Proposal Disclosure Schema
-
+**Proposal Disclosure Schema
+**
 A voluntary disclosure framework for reducing ambiguity in grant proposals.
 
 What This Is
