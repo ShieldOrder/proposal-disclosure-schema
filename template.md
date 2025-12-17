@@ -1,32 +1,101 @@
-ZCG Process Legibility Baseline v0.1
-Derived from the Process Layer Doctrine (PLD)
+# Disclosure Template v0.1
 
-Preamble and Scope
+**Proposal Title:**  
+**Applicant:**  
+**Date:**  
 
-Purpose
+---
 
-This document describes how Zcash Community Grants (ZCG) decisions and grant execution typically operate in practice, and where discretion, verification, and implicit trust assumptions appear along that flow.
+## Impact
 
-It is written to support continuity and legibility for future committee members, applicants seeking operational clarity, and observers who want a concrete map of decision and execution surfaces.
+**Who benefits from this, and how?**
 
-What this is
+[Your answer]
 
-This document maps the end-to-end ZCG decision and execution process as it exists today. It separates governance mechanisms, process execution, and custody interfaces, and identifies where signals are objective, judgment-based, or implicit. It is intended as a continuity artifact to reduce institutional memory loss across committee turnover.
+**What is the baseline you are improving against?**
 
-What this is not
+[Your answer]
 
-This document is not a governance proposal, mandate, scoring system, or evaluation of individuals, motives, or past decisions. It is not a security audit and does not assert the presence of defects or failures.
+**What would success look like in 6 months? In 12 months?**
 
-Relationship to the Process Layer Doctrine
+[Your answer]
 
-The Process Layer Doctrine defines execution hygiene for governance systems by treating process as infrastructure. This baseline applies the PLD lens descriptively by decomposing the ZCG workflow into stages, separating discretion from verification at each stage, and making implicit assumptions visible without prescribing change.
+---
 
-The PLD five tests (Impact, Clarity, Alignment, Deliverability, Verification) are referenced later strictly as an observational overlay.
+## Clarity
 
-Neutrality and non-prescriptive stance
+**Explicit deliverables (what you will produce):**
 
-This document is mechanism-neutral. It is intended to remain applicable under committee-based discretion, ZCAP-style processes, and hybrid or future governance mechanisms. Its objective is legibility, not redesign.
+[Your answer]
 
-Versioning and change control
+**Non-goals (what this explicitly is not):**
 
-Version 0.1 is intentionally limited to descriptive mapping. Any future versions that introduce recommendations must be explicitly labeled as non-binding and maintained separately from the baseline.
+[Your answer]
+
+**Key assumptions this depends on:**
+
+[Your answer]
+
+**External dependencies (outside your control):**
+
+[Your answer]
+
+---
+
+## Alignment
+
+**Core values this project serves:**
+
+[Your answer]
+
+**Tradeoffs you are making (what you are optimizing for and against):**
+
+[Your answer]
+
+**How this fits the Zcash ecosystem:**
+
+[Your answer]
+
+---
+
+## Deliverability
+
+**Team capacity (realistic hours per week):**
+
+[Your answer]
+
+**Timeline with milestones:**
+
+[Your answer]
+
+**Known failure modes (what could go wrong):**
+
+[Your answer]
+
+**Contingency plans:**
+
+[Your answer]
+
+---
+
+## Verification
+
+**Evidence artifacts you will produce:**
+
+[Your answer]
+
+**Acceptance criteria (how success will be determined):**
+
+[Your answer]
+
+**Stop conditions (when the project would halt):**
+
+[Your answer]
+
+---
+
+## Notes
+
+- Blank fields are valid. They signal uncertainty, which is information.
+- This template supplements a proposal; it does not replace it.
+- Human evaluators retain full discretion to interpret or ignore any part of this disclosure.
