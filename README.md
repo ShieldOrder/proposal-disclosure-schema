@@ -27,8 +27,7 @@ v0.1
 Using the Template
 
 The disclosure template is available here:
-https://shieldorder.github.io/proposal-disclosure-schema/template.html
-
+](https://github.com/ShieldOrder/proposal-disclosure-schema/blob/main/template.md)
 Use of this template is optional.
 Using it does not influence approval, rejection, or evaluation outcomes.
 
