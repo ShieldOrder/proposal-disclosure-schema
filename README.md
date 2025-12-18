@@ -1,48 +1,50 @@
-README.md
+# Proposal Disclosure Schema
 
-**Proposal Disclosure Schema
-**
-A voluntary disclosure framework for reducing ambiguity in grant proposals.
+A voluntary disclosure framework.
+For reducing ambiguity in grant proposals.
 
-What This Is
+## What This Is
 
-A text based disclosure template that helps applicants make their reasoning explicit before evaluation begins.
+A text based disclosure template.
+It helps applicants make their reasoning explicit.
+This happens before evaluation begins.
 
 It does not:
+- Evaluate proposals
+- Assign scores
+- Imply approval
+- Replace human judgment
 
-Evaluate proposals
+It only structures where reasoning is disclosed.
+It does not prescribe conclusions.
 
-Assign scores
-
-Imply approval
-
-Replace human judgment
-
-It only structures where reasoning is disclosed, not what conclusions should be drawn.
-
-Status
+## Status
 
 v0.1
 
-Using the Template
+## Using the Template
 
-The disclosure template is available here:
-](https://github.com/ShieldOrder/proposal-disclosure-schema/blob/main/template.md)
+The disclosure template is here:
+https://github.com/ShieldOrder/proposal-disclosure-schema/blob/main/Template.md
+
 Use of this template is optional.
-Using it does not influence approval, rejection, or evaluation outcomes.
+Using it does not influence approval outcomes.
+Using it does not influence rejection outcomes.
+Using it does not influence evaluation outcomes.
 
-Design Principles
+## Design Principles
 
-Voluntary, not mandatory
+- Voluntary
+- Text first
+- Non automated
+- Reasoning disclosure only
+- Evaluator discretion preserved
+- Ambiguity made visible without penalty
 
-Text first, not automated
+## License
 
-Discloses reasoning, does not judge it
-
-Preserves evaluator discretion
-
-Makes ambiguity visible without penalizing it
-
-License
-
-CC0. Use, modify, fork, or ignore freely.
+CC0
+Use freely.
+Modify freely.
+Fork freely.
+Ignore freely.
