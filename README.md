@@ -25,7 +25,7 @@ v0.1
 ## Using the Template
 
 Disclosure template:
-https://raw.githubusercontent.com/ShieldOrder/proposal-disclosure-schema/main/Template.md
+<https://raw.githubusercontent.com/ShieldOrder/proposal-disclosure-schema/main/Template.md>
 
 Use of this template is optional.
 Using it does not influence approval outcomes.
