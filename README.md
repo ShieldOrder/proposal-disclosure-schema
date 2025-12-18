@@ -6,7 +6,7 @@ For reducing ambiguity in grant proposals.
 ## What This Is
 
 A text based disclosure template.
-It helps applicants make their reasoning explicit.
+It helps applicants make reasoning explicit.
 This happens before evaluation begins.
 
 It does not:
@@ -24,13 +24,17 @@ v0.1
 
 ## Using the Template
 
-The disclosure template is here:
-https://shieldorder.github.io/proposal-disclosure-schema/Template.md
+Disclosure template:
+https://raw.githubusercontent.com/ShieldOrder/proposal-disclosure-schema/main/Template.md
 
 Use of this template is optional.
 Using it does not influence approval outcomes.
 Using it does not influence rejection outcomes.
 Using it does not influence evaluation outcomes.
+
+Applicants typically copy the template.
+They paste it into their own document.
+They answer the sections there.
 
 ## Design Principles
 
@@ -39,7 +43,7 @@ Using it does not influence evaluation outcomes.
 - Non automated
 - Reasoning disclosure only
 - Evaluator discretion preserved
-- Ambiguity made visible without penalty
+- Ambiguity visible without penalty
 
 ## License
 
