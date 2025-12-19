@@ -1,5 +1,11 @@
 # Disclosure Template v0.1
 
+Intended Use:
+Applicants may use this template privately to tighten proposals.
+Evaluators may reference disclosures if provided.
+No committee endorsement is required or implied.
+The template is most useful when applied to a concrete proposal and reviewed collaboratively.
+
 Copy this template into your own proposal document.
 Fill it out there.
 Do not fill it out on the webpage.
