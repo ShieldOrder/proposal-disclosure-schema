@@ -11,7 +11,6 @@ This is not an evaluation.
 This is not a governance mandate.
 
 Proposal Title: Coinholder-Directed Retroactive Grants – Feedback Legibility
-Applicant: N/A
 Date: YYYY-MM-DD
 
 ============================================================
