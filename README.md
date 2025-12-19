@@ -1,42 +1,122 @@
-# Proposal Disclosure Schema
+# Template.md
 
-A voluntary disclosure framework for reducing ambiguity in grant proposals.
+Disclosure Template v0.1
 
-## What This Is
+Copy this template into your proposal document.
+Fill it out there.
+Do not fill it out on the webpage.
 
-A text based disclosure template that helps applicants make their reasoning explicit before evaluation begins.
+Proposal Title:
+Applicant:
+Date:
 
-It does not:
-- evaluate proposals
-- assign scores
-- imply approval
-- replace human judgment
+============================================================
 
-It only structures where reasoning is disclosed. It does not prescribe conclusions.
+IMPACT
 
-## Status
+Who benefits from this, and how?
 
-v0.1
+[Your answer]
 
-## Using the Template
+What baseline does this improve on?
 
-Disclosure template (copy and paste into your own document):
-https://raw.githubusercontent.com/ShieldOrder/proposal-disclosure-schema/main/Template.md
+[Your answer]
 
-Use of this template is optional.
-Using it does not influence approval, rejection, or evaluation outcomes.
+What does success look like at 6 months?
 
-Applicants typically copy the template into their own proposal document and answer the sections there.
+[Your answer]
 
-## Design Principles
+What does success look like at 12 months?
 
-- voluntary
-- text first
-- non automated
-- reasoning disclosure only
-- evaluator discretion preserved
-- ambiguity made visible without penalty
+[Your answer]
 
-## License
+============================================================
 
-CC0. Use, modify, fork, or ignore freely.
+CLARITY
+
+What concrete deliverables will you produce?
+
+[Your answer]
+
+Non-goals.
+What this project intentionally does not attempt.
+
+[Your answer]
+
+Key assumptions this work depends on.
+
+[Your answer]
+
+External dependencies outside your control.
+
+[Your answer]
+
+============================================================
+
+ALIGNMENT
+
+Which values or priorities this project serves.
+
+[Your answer]
+
+Tradeoffs you are making.
+What you optimize for.
+What you accept as out of scope.
+
+[Your answer]
+
+How this fits within the Zcash ecosystem.
+
+[Your answer]
+
+============================================================
+
+DELIVERABILITY
+
+Team capacity.
+Realistic hours per week.
+
+[Your answer]
+
+Timeline with milestones.
+
+[Your answer]
+
+Known failure modes.
+What could realistically go wrong.
+
+[Your answer]
+
+Contingency plans if those failures occur.
+
+[Your answer]
+
+============================================================
+
+VERIFICATION
+
+Artifacts you expect to produce as evidence of progress.
+
+[Your answer]
+
+Acceptance criteria.
+How success will be determined.
+
+[Your answer]
+
+Stop conditions.
+Signals that the project should pause or halt.
+
+[Your answer]
+
+============================================================
+
+NOTES
+
+Blank sections are acceptable.
+They indicate open questions.
+
+This template supplements a proposal.
+It does not replace one.
+
+Evaluators may ignore any section.
