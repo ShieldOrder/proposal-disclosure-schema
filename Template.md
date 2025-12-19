@@ -8,11 +8,11 @@ Proposal Title:
 Applicant:
 Date:
 
-================================================================
+============================================================
 
-## Impact
+IMPACT
 
-Who benefits from this and how?
+Who benefits from this, and how?
 
 [Your answer]
 
@@ -28,9 +28,9 @@ What does success look like in 12 months?
 
 [Your answer]
 
-================================================================
+============================================================
 
-## Clarity
+CLARITY
 
 Explicit deliverables you will produce:
 
@@ -49,18 +49,17 @@ External dependencies outside your control:
 
 [Your answer]
 
-================================================================
+============================================================
 
-## Alignment
+ALIGNMENT
 
 Core values this project serves:
 
 [Your answer]
 
 Tradeoffs you are making.
-
-What you optimize for:
-What you optimize against:
+What you optimize for.
+What you optimize against.
 
 [Your answer]
 
@@ -68,9 +67,9 @@ How this fits the Zcash ecosystem:
 
 [Your answer]
 
-================================================================
+============================================================
 
-## Deliverability
+DELIVERABILITY
 
 Team capacity.
 Realistic hours per week:
@@ -90,9 +89,9 @@ Contingency plans:
 
 [Your answer]
 
-================================================================
+============================================================
 
-## Verification
+VERIFICATION
 
 Evidence artifacts you will produce:
 
@@ -108,9 +107,9 @@ When the project would halt:
 
 [Your answer]
 
-================================================================
+============================================================
 
-## Notes
+NOTES
 
 Blank fields are valid.
 They signal uncertainty.
