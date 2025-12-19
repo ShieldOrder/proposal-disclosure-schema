@@ -1,6 +1,6 @@
 # Disclosure Template v0.1
 
-Copy this template into your proposal document.
+Copy this template into your own proposal document.
 Fill it out there.
 Do not fill it out on the webpage.
 
@@ -8,7 +8,7 @@ Proposal Title:
 Applicant:
 Date:
 
----
+================================================================
 
 ## Impact
 
@@ -28,7 +28,7 @@ What does success look like in 12 months?
 
 [Your answer]
 
----
+================================================================
 
 ## Clarity
 
@@ -49,7 +49,7 @@ External dependencies outside your control:
 
 [Your answer]
 
----
+================================================================
 
 ## Alignment
 
@@ -57,9 +57,10 @@ Core values this project serves:
 
 [Your answer]
 
-Tradeoffs you are making:
-What you optimize for.
-What you optimize against.
+Tradeoffs you are making.
+
+What you optimize for:
+What you optimize against:
 
 [Your answer]
 
@@ -67,7 +68,7 @@ How this fits the Zcash ecosystem:
 
 [Your answer]
 
----
+================================================================
 
 ## Deliverability
 
@@ -89,7 +90,7 @@ Contingency plans:
 
 [Your answer]
 
----
+================================================================
 
 ## Verification
 
@@ -107,7 +108,7 @@ When the project would halt:
 
 [Your answer]
 
----
+================================================================
 
 ## Notes
 
