@@ -1,9 +1,8 @@
 # Example Disclosure — NozyWallet (Illustrative)
 
-This is an illustrative disclosure based on the publicly described NozyWallet roadmap.
-It is not a funding request.
-It is not a judgment.
-It exists to make assumptions, scope, and verification surfaces explicit.
+This is an illustrative disclosure derived from the publicly described NozyWallet roadmap.
+It is not a funding request and does not imply evaluation.
+Its sole purpose is to make assumptions, scope, and verification surfaces explicit.
 
 Proposal Title: NozyWallet — Fully-Shielded Orchard Wallet on Zebra  
 Applicant: LEONINE-DAO / NozyWallet  
@@ -16,7 +15,7 @@ IMPACT
 Who benefits from this, and how?
 
 Primary beneficiaries are privacy-conscious Zcash users who want fully shielded behavior by default.
-Secondary beneficiaries are the Zcash ecosystem, through increased shielded usage and reduced transparent leakage.
+Secondary beneficiaries include other wallet developers, who gain a Zebra-native, Orchard-only reference implementation.
 Wallet developers benefit from a Zebra-native, Orchard-only reference implementation.
 
 What baseline are you improving against?
@@ -103,7 +102,7 @@ DELIVERABILITY
 Team capacity.
 Realistic hours per week:
 
-Single primary developer, approximately 15–25 hours per week.
+Single primary developer, approximately 15–25 hours per week, subject to availability.
 
 Timeline with milestones:
 
