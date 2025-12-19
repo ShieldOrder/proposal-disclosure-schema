@@ -1,160 +1,158 @@
-# Example Disclosure — NozyWallet (Illustrative)
+# examples/nozy-example.md
 
-This is an illustrative disclosure derived from the publicly described NozyWallet roadmap.
-It is not a funding request and does not imply evaluation.
-Its sole purpose is to make assumptions, scope, and verification surfaces explicit.
+Example Disclosure
+NozyWallet
+Illustrative Only
 
-Proposal Title: NozyWallet — Fully-Shielded Orchard Wallet on Zebra  
-Applicant: LEONINE-DAO / NozyWallet  
+This is an illustrative disclosure based on the publicly described NozyWallet roadmap.
+It is not a funding request.
+It is not an evaluation.
+It exists to surface scope boundaries, assumptions, and verification points.
+
+Proposal Title: NozyWallet
+Applicant: LEONINE-DAO / NozyWallet
 Date: YYYY-MM-DD
 
-======================================================================
+============================================================
 
 IMPACT
 
 Who benefits from this, and how?
 
 Primary beneficiaries are privacy-conscious Zcash users who want fully shielded behavior by default.
-Secondary beneficiaries include other wallet developers, who gain a Zebra-native, Orchard-only reference implementation.
-Wallet developers benefit from a Zebra-native, Orchard-only reference implementation.
+Secondary beneficiaries include the Zcash ecosystem through increased shielded usage and reduced transparent leakage.
+Wallet developers benefit from a Zebra-native Orchard-only reference implementation.
 
-What baseline are you improving against?
+What baseline does this improve on?
 
-Existing Zcash wallets support transparent addresses or treat shielding as optional.
-Indexing and note handling behavior varies across implementations.
-Users are often exposed to privacy footguns through defaults rather than explicit choice.
+The baseline is existing Zcash wallets that support transparent addresses or treat shielding as optional.
+This project removes transparent address support entirely and centers Orchard usage by default.
 
 What does success look like at 6 months?
 
-A production-usable Orchard-only wallet running on Zebra.
-Reliable note scanning, balance calculation, and transaction history for shielded addresses.
-Clear user education surfaces explaining shielded behavior and privacy guarantees.
+A stable Orchard-only wallet running on Zebra.
+Users can create wallets, scan notes, send shielded transactions, and view balances.
+Tor and I2P routing are functional and enabled.
 
 What does success look like at 12 months?
 
-Stable frontend release with fully shielded defaults.
-Documented and reproducible Orchard indexing behavior.
-Operational Tor and I2P routing enabled by default.
-Active users conducting fully shielded transactions without touching transparent addresses.
+A production-ready privacy-first wallet with maintained releases.
+Shielded usage is stable.
+Cross-chain and Secret Network features advance without compromising core Zcash privacy guarantees.
 
-======================================================================
+============================================================
 
 CLARITY
 
-Explicit deliverables you will produce:
+What concrete deliverables will you produce?
 
-A Zebra-based Orchard-only wallet implementation.
-Deterministic Orchard note scanning and balance calculation.
-CLI and frontend interfaces with privacy-first defaults.
-Encrypted local storage and secure key management.
-Documentation explaining design decisions and privacy tradeoffs.
+- Zebra-based Orchard wallet implementation
+- CLI and frontend interfaces
+- Shielded transaction support only
+- Secure key storage and backup
+- Tor and I2P routing
+- Documentation and release builds
 
 Non-goals.
-What this explicitly is not:
+What this project intentionally does not attempt.
 
-A wallet supporting transparent addresses.
-A performance-optimized indexer for unbounded historical scanning.
-A general-purpose multi-asset wallet UI.
-A consensus or protocol change.
+- Support for transparent addresses
+- Custodial services
+- Privacy tradeoffs for convenience
+- General-purpose multi-asset wallet abstraction
 
-Key assumptions this depends on:
+Key assumptions this work depends on.
 
-Stability of Orchard semantics under NU 6.1.
-Continued availability of Zebra as a maintained full node.
-Feasibility of deterministic Orchard indexing on consumer hardware.
+- Continued Zebra support for Orchard
+- Stable Zcash network parameters
+- Maintainer availability
+- Community interest in privacy-first tooling
 
-External dependencies outside your control:
+External dependencies outside your control.
 
-Upstream Zebra changes affecting indexing or RPC behavior.
-Protocol changes impacting Orchard note handling.
-Network reliability for Tor and I2P routing.
+- Zebra node development
+- Network upgrades
+- Tor and I2P network stability
 
-======================================================================
+============================================================
 
 ALIGNMENT
 
-Core values this project serves:
+Which values or priorities this project serves.
 
-Privacy by default, not by configuration.
-Elimination of transparent leakage paths.
-User education through explicit design constraints.
-Deterministic, auditable wallet behavior.
+- Privacy by default
+- Minimization of user error
+- Explicit rejection of transparent usage
+- Open source development
 
-Tradeoffs you are making:
+Tradeoffs you are making.
 What you optimize for.
-What you optimize against.
+What you accept as out of scope.
 
-Optimizing for privacy correctness and user safety.
-Optimizing against backward compatibility with transparent workflows.
-Accepting higher resource usage in exchange for stronger guarantees.
+Optimize for privacy correctness and safety.
+Accept reduced feature breadth.
+Accept slower onboarding in exchange for stronger guarantees.
 
-How this fits the Zcash ecosystem:
+How this fits within the Zcash ecosystem.
 
-Increases shielded pool usage.
-Provides a reference for Orchard-only wallet design.
-Complements Zebra as a Rust-based, production-grade node.
-Aligns with Zcash’s privacy-first mission.
+NozyWallet reinforces the intended use of Zcash shielded pools.
+It complements existing wallets by providing a strict privacy-first option.
 
-======================================================================
+============================================================
 
 DELIVERABILITY
 
 Team capacity.
-Realistic hours per week:
+Realistic hours per week.
 
-Single primary developer, approximately 15–25 hours per week, subject to availability.
+Single maintainer with sustained part-time commitment.
 
-Timeline with milestones:
+Timeline with milestones.
 
-Phase 1: Core wallet infrastructure and Orchard support.
-Phase 2: Deterministic indexing, transaction history, and balance logic.
-Phase 3: Frontend integration and user education surfaces.
-Phase 4: Privacy network hardening and advanced features.
+- Orchard wallet core complete
+- Transaction sending and scanning
+- Frontend stabilization
+- Network privacy hardening
+- Incremental feature expansion
 
 Known failure modes.
-What could go wrong:
+What could realistically go wrong.
 
-Indexing complexity exceeds initial assumptions.
-Edge cases in reorg handling introduce state inconsistencies.
-Multi-chain features dilute focus from core Zcash functionality.
+- Maintainer burnout
+- Network changes impacting Zebra compatibility
+- UX friction limiting adoption
 
-Contingency plans:
+Contingency plans if those failures occur.
 
-Constrain indexing scope to bounded ranges.
-Explicitly document unresolved edge cases.
-Defer non-Zcash integrations until core stability is proven.
+- Scope reduction
+- Slower release cadence
+- Documentation-first stabilization
 
-======================================================================
+============================================================
 
 VERIFICATION
 
-Evidence artifacts you will produce:
+Artifacts you expect to produce as evidence of progress.
 
-Public source code repository.
-Reproducible builds and test instructions.
-Demonstrable shielded transaction flows.
-Screenshots or logs showing Orchard-only behavior.
-Documentation of assumptions and invariants.
+- Public GitHub repository
+- Tagged releases
+- CLI binaries
+- Documentation updates
 
 Acceptance criteria.
-How success will be determined:
+How success will be determined.
 
-Users can create wallets, receive funds, send funds, and view balances without touching transparent addresses.
-Repeated scans of the same block range produce consistent results.
-All network calls route through configured privacy layers.
+Wallet can send and receive fully shielded transactions reliably.
+Privacy routing is active.
+No transparent address support exists in code paths.
 
 Stop conditions.
-When the project would halt:
+Signals that the project should pause or halt.
 
-If deterministic Orchard indexing cannot be achieved reliably.
-If upstream protocol changes invalidate core assumptions.
-If privacy guarantees cannot be upheld without unacceptable compromise.
+- Inability to maintain compatibility with Zcash network upgrades
+- Loss of maintainer capacity
+- Privacy guarantees cannot be upheld
 
-======================================================================
+============================================================
 
-NOTES
-
-Some sections may remain partially incomplete.
-This reflects genuine uncertainty and active development.
-
-The purpose of this disclosure is legibility, not persuasion.
+END
