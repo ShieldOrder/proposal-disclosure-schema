@@ -26,7 +26,7 @@ https://raw.githubusercontent.com/ShieldOrder/proposal-disclosure-schema/main/Te
 Use of this template is optional.
 Using it does not influence approval, rejection, or evaluation outcomes.
 
-Applicants typically copy the template, paste it into their own document, and answer the sections there.
+Applicants typically copy the template into their own proposal document and answer the sections there.
 
 ## Design Principles
 
