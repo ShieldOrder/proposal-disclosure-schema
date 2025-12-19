@@ -6,7 +6,8 @@ A voluntary disclosure template for reducing ambiguity in grant proposals.
 
 What This Is
 
-A text-based template that helps applicants write down assumptions, scope boundaries, and verification criteria before evaluation begins.  This template emerged from repeatedly encountering unclear scope, assumptions, and failure modes in grant proposals.
+A text-based template that helps applicants write down assumptions, scope boundaries, and verification criteria before evaluation begins.  
+This template emerged from repeatedly encountering unclear scope, assumptions, and failure modes in grant proposals.
 
 
 The goal is clarity, not advocacy.
