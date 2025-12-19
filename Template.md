@@ -1,12 +1,8 @@
-# Disclosure Template v0.1
+# Template.md
 
-Intended Use:
-Applicants may use this template privately to tighten proposals.
-Evaluators may reference disclosures if provided.
-No committee endorsement is required or implied.
-The template is most useful when applied to a concrete proposal and reviewed collaboratively.
+Disclosure Template v0.1
 
-Copy this template into your own proposal document.
+Copy this template into your proposal document.
 Fill it out there.
 Do not fill it out on the webpage.
 
@@ -14,7 +10,7 @@ Proposal Title:
 Applicant:
 Date:
 
-======================================================================
+============================================================
 
 IMPACT
 
@@ -22,7 +18,7 @@ Who benefits from this, and how?
 
 [Your answer]
 
-What baseline are you improving against?
+What baseline does this improve on?
 
 [Your answer]
 
@@ -34,95 +30,93 @@ What does success look like at 12 months?
 
 [Your answer]
 
-======================================================================
+============================================================
 
 CLARITY
 
-Explicit deliverables you will produce:
+What concrete deliverables will you produce?
 
 [Your answer]
 
 Non-goals.
-What this explicitly is not:
+What this project intentionally does not attempt.
 
 [Your answer]
 
-Key assumptions this depends on:
+Key assumptions this work depends on.
 
 [Your answer]
 
-External dependencies outside your control:
+External dependencies outside your control.
 
 [Your answer]
 
-======================================================================
+============================================================
 
 ALIGNMENT
 
-Core values this project serves:
+Which values or priorities this project serves.
 
 [Your answer]
 
-Tradeoffs you are making:
+Tradeoffs you are making.
 What you optimize for.
-What you optimize against.
+What you accept as out of scope.
 
 [Your answer]
 
-How this fits within the Zcash ecosystem:
+How this fits within the Zcash ecosystem.
 
 [Your answer]
 
-======================================================================
+============================================================
 
 DELIVERABILITY
 
 Team capacity.
-Realistic hours per week:
+Realistic hours per week.
 
 [Your answer]
 
-Timeline with milestones:
+Timeline with milestones.
 
 [Your answer]
 
 Known failure modes.
-What could go wrong:
+What could realistically go wrong.
 
 [Your answer]
 
-Contingency plans:
+Contingency plans if those failures occur.
 
 [Your answer]
 
-======================================================================
+============================================================
 
 VERIFICATION
 
-Evidence artifacts you will produce:
+Artifacts you expect to produce as evidence of progress.
 
 [Your answer]
 
 Acceptance criteria.
-How success will be determined:
+How success will be determined.
 
 [Your answer]
 
 Stop conditions.
-When the project would halt:
+Signals that the project should pause or halt.
 
 [Your answer]
 
-======================================================================
+============================================================
 
 NOTES
 
-Blank fields are valid.
-They signal uncertainty.
-Uncertainty is information.
+Blank sections are acceptable.
+They indicate open questions.
 
 This template supplements a proposal.
-It does not replace a proposal.
+It does not replace one.
 
-Human evaluators retain full discretion.
-Any section may be ignored.
+Evaluators may ignore any section.
