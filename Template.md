@@ -8,7 +8,7 @@ Proposal Title:
 Applicant:
 Date:
 
-============================================================
+======================================================================
 
 IMPACT
 
@@ -20,15 +20,15 @@ What baseline are you improving against?
 
 [Your answer]
 
-What does success look like in 6 months?
+What does success look like at 6 months?
 
 [Your answer]
 
-What does success look like in 12 months?
+What does success look like at 12 months?
 
 [Your answer]
 
-============================================================
+======================================================================
 
 CLARITY
 
@@ -36,7 +36,7 @@ Explicit deliverables you will produce:
 
 [Your answer]
 
-Non goals.
+Non-goals.
 What this explicitly is not:
 
 [Your answer]
@@ -49,7 +49,7 @@ External dependencies outside your control:
 
 [Your answer]
 
-============================================================
+======================================================================
 
 ALIGNMENT
 
@@ -57,17 +57,17 @@ Core values this project serves:
 
 [Your answer]
 
-Tradeoffs you are making.
+Tradeoffs you are making:
 What you optimize for.
 What you optimize against.
 
 [Your answer]
 
-How this fits the Zcash ecosystem:
+How this fits within the Zcash ecosystem:
 
 [Your answer]
 
-============================================================
+======================================================================
 
 DELIVERABILITY
 
@@ -89,7 +89,7 @@ Contingency plans:
 
 [Your answer]
 
-============================================================
+======================================================================
 
 VERIFICATION
 
@@ -107,7 +107,7 @@ When the project would halt:
 
 [Your answer]
 
-============================================================
+======================================================================
 
 NOTES
 
