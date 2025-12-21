@@ -24,7 +24,9 @@ Judgment remains with human evaluators.
 Status
 
 v0.1
-Early. Iterating.
+
+This is an initial public release.
+The template is intentionally minimal and text based.
 
 Using the Template
 
@@ -49,6 +51,14 @@ Authorship
 
 This repository is a process artifact.
 Its value should be judged by whether it improves proposal clarity in practice.
+
+Related Work
+
+The [Process Layer Doctrine](https://github.com/ShieldOrder/process-layer-doctrine) defines execution hygiene for governance and funding systems.
+
+Together:
+- PLD defines how evaluation and execution processes are made legible
+- PDS defines what applicants may disclose to reduce ambiguity voluntarily
 
 License
 
