@@ -1,3 +1,6 @@
+This document is an illustrative example of a completed disclosure.
+It does not imply endorsement, approval, or recommended structure beyond the underlying template.
+
 # examples/nozy-example.md
 
 Example Disclosure
