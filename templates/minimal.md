@@ -29,6 +29,10 @@ Top risks that could prevent delivery.
 
 ## 8. Verification
 How a third party can verify delivery using observable artifacts.
+Note on interpretation:
+Artifacts describe what is observable.
+Acceptance criteria describe how observers might assess those artifacts.
+Neither replaces evaluator judgment.
 
 ## 9. Maintenance
 What happens after completion. Who maintains it and for how long.
