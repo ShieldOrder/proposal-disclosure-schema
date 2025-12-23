@@ -53,6 +53,11 @@ G2. Verification artifacts (repos, builds, docs, deployments)
 G3. Reproducibility expectations (if applicable)  
 G4. Reporting cadence and format (if applicable)
 
+Note on interpretation:
+Artifacts describe what is observable.
+Acceptance criteria describe how observers might assess those artifacts.
+Neither replaces evaluator judgment.
+
 ## H. Operations and Maintenance
 
 H1. Maintenance plan  
