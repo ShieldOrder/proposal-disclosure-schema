@@ -8,7 +8,7 @@ New proposals should use one of the following:
 
 This template is no longer maintained as a primary disclosure surface.
 
-# Proposal Disclosure Schema — Reference Template
+# Proposal Disclosure Schema - Reference Template
 
 Disclosure Template v0.1.1 (reference)
 
