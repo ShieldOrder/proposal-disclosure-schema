@@ -1,9 +1,9 @@
+cat > examples/coinholder-retroactive-feedback-example.md <<'EOF'
 This document is an illustrative example of a completed disclosure.
 It does not imply endorsement, approval, or recommended structure beyond the underlying template.
 
 # Example Disclosure
-Coinholder-Directed Retroactive Grants (Illustrative)
-Applied to Feedback Gap Raised by TS
+Coinholder-Directed Retroactive Grants – Feedback Legibility
 Illustrative Only
 
 This is an illustrative disclosure exploring one narrow question:
@@ -26,60 +26,60 @@ Coinholder voting outcomes and audits are transparent.
 Aggregate results are visible.
 Individual voter reasoning is not.
 
-As a result, rejected applicants have little signal about:
+As a result, rejected applicants have limited signal about:
 - why support was insufficient
-- what dimensions mattered most
+- which dimensions may have mattered
 - what could realistically be improved
 
-This leads to repeated misalignment and proposal churn.
+This contributes to repeated misalignment and proposal churn.
 
 ============================================================
 
 IMPACT
 
-Who benefits from this, and how?
+Who is expected to benefit from this work, and how?
 
 Primary beneficiaries are future applicants.
-They gain directional signal on why proposals did not pass.
+They may gain directional signal about proposal rejection patterns.
 
-Secondary beneficiaries include:
+Secondary beneficiaries may include:
 - coinholders, through reduced low-signal resubmissions
 - administrators, through lower process friction
-- the ecosystem, through better-aligned future proposals
+- the ecosystem, through improved proposal alignment over time
 
-What baseline does this improve on?
+What existing baseline does this improve upon?
 
-The baseline is a binary outcome with auditability but no learning signal.
-This adds post-round legibility without changing vote mechanics.
+The baseline is a binary outcome with auditability but minimal learning signal.
+This adds post-round legibility without modifying voting mechanics.
 
-What does success look like at 6 months?
+From the proposer’s perspective, what would success look like after approximately 6 months?
 
 A post-round summary exists that:
 - aggregates common approval signals
 - aggregates common rejection signals
 - avoids attribution to individual voters
 
-Applicants can reference this when iterating.
+Applicants are able to reference this when iterating.
 
-What does success look like at 12 months?
+From the proposer’s perspective, what would success look like after approximately 12 months?
 
-Applicants converge faster toward viable proposals.
+Applicants converge more quickly toward viable proposals.
 Repeated rejections decrease.
-Coinholder voting remains unchanged.
+Coinholder voting behavior remains unchanged.
 
 ============================================================
 
 CLARITY
 
-What concrete deliverables will you produce?
+What concrete outputs or deliverables are expected?
 
 - A post-round feedback summary template
-- A standard set of neutral signal categories
+- A neutral set of signal categories
 - Guidance on aggregation thresholds
 - A publication cadence aligned with voting rounds
 
 Non-goals.
-What this intentionally does not attempt.
+What this explicitly does not attempt to do.
 
 - Individual voter explanations
 - Mandatory comment requirements
@@ -89,10 +89,10 @@ What this intentionally does not attempt.
 Key assumptions this work depends on.
 
 - Coinholders prefer anonymity
-- Aggregate signals are sufficient for learning
+- Aggregate signals provide sufficient learning value
 - Administrative overhead must remain low
 
-External dependencies outside your control.
+External dependencies outside the proposer’s direct control.
 
 - Willingness of administrators to publish summaries
 - Sufficient participation to generate signal
@@ -102,16 +102,16 @@ External dependencies outside your control.
 
 ALIGNMENT
 
-Which values or priorities this serves.
+Which values, goals, or priorities this work is intended to serve.
 
 - Coinholder autonomy
 - Privacy of voter intent
 - Reduced governance friction
 - Learning without coercion
 
-Tradeoffs you are making.
-What you optimize for.
-What you accept as out of scope.
+Tradeoffs being made.
+What is optimized for.
+What is accepted as out of scope.
 
 Optimize for:
 - aggregated signal
@@ -123,7 +123,7 @@ Accept:
 - imperfect feedback
 - delayed clarity
 
-How this fits within the Zcash ecosystem.
+How this work relates to existing systems within the Zcash ecosystem.
 
 It complements existing transparency and auditability.
 It does not replace or interfere with coinholder voting.
@@ -133,27 +133,25 @@ It operates strictly after outcomes are finalized.
 
 DELIVERABILITY
 
-Team capacity.
-Realistic hours per week.
+Team capacity and availability.
 
 Minimal administrative effort.
 Primarily synthesis and publication.
 
-Timeline with milestones.
+Indicative timeline or phases.
 
 - Draft summary schema
 - Trial application to one completed round
 - Community review
-- Iterate or abandon
+- Iterate or discontinue
 
-Known failure modes.
-What could realistically go wrong.
+Known risks or failure modes.
 
 - Feedback too vague to be useful
 - Misinterpretation as voter intent
 - Increased expectations for explanation
 
-Contingency plans if those failures occur.
+Potential responses or mitigations.
 
 - Reduce scope
 - Increase abstraction
@@ -163,26 +161,26 @@ Contingency plans if those failures occur.
 
 VERIFICATION
 
-Artifacts you expect to produce as evidence of progress.
+What artifacts are expected to be produced that could allow others to observe progress or outcomes?
 
 - Published post-round summaries
 - Archived prior versions
 - Community feedback threads
 
 Acceptance criteria.
-How success will be determined.
+How outcomes might be assessed.
 
-Applicants report improved understanding of rejection.
+Applicants report improved understanding of rejection, as observed through feedback or follow-up discussion.
 Administrators report no added friction.
-Voting behavior remains unchanged.
+Voting mechanics and behavior remain unchanged.
 
-Stop conditions.
-Signals that this should halt.
+Stop or pause signals.
 
-- Pressure to reveal voter reasoning
+- Pressure to reveal individual voter reasoning
 - Perceived coercion of coinholders
 - Net increase in governance friction
 
 ============================================================
 
 END
+EOF
