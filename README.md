@@ -154,6 +154,25 @@ PDS is complementary to the Process Layer Doctrine (PLD).
 PDS does not require PLD, and PLD does not require PDS.
 They may be used independently.
 
+## Templates
+
+This repository provides two active disclosure templates:
+- templates/minimal.md  
+  For simple or low-scope proposals.
+- templates/full.md  
+  For complex, multi-phase, or high-uncertainty work.
+
+Other templates are retained for historical reference only.
+
+## Related Work
+
+This schema complements the Process Layer Doctrine (PLD).
+
+- PLD focuses on evaluator and system-side process hygiene.
+- PDS focuses on applicant-side disclosure and clarity.
+
+Both are optional, descriptive tools.
+
 ## Versioning and Evolution
 
 The current version of PDS is defined in the repository root.
