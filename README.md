@@ -1,65 +1,60 @@
-# README.md
+# Proposal Disclosure Schema (PDS)
 
-Proposal Disclosure Schema
+Opt-in disclosure templates to make grant proposals and evaluations more legible and comparable over time.
 
-A voluntary disclosure template for reducing ambiguity in grant proposals.  
+Posture: descriptive, mechanism-neutral, non-prescriptive, non-authoritative. See docs/POSTURE.md.
 
-What This Is
+## Purpose
 
-A text-based template that helps applicants write down assumptions, scope boundaries, and verification criteria before evaluation begins.  
-This template emerged from repeatedly encountering unclear scope, assumptions, and failure modes in grant proposals.
+PDS helps applicants and evaluators surface assumptions, constraints, risks, dependencies, and verification surfaces using a consistent structure.
 
+It is intended to:
+- reduce ambiguity
+- improve comparability across proposals
+- make verification expectations explicit
+- support continuity across committee turnover
 
-The goal is clarity, not advocacy.
+PDS does not claim endorsement, delegation, or institutional standing.
 
-What This Is Not
+## Two Templates
 
-This template is limited to disclosure.
-Evaluation remains outside its scope.
-Scoring remains outside its scope.
-Approval remains outside its scope.
+- Minimal Template (adoption-first)
+  - 10 questions
+  - designed for low friction
 
-Judgment remains with human evaluators.
+- Full Template (depth-first)
+  - comprehensive disclosure surface
+  - intended for complex or high-risk proposals
 
-Status
+## How to Use
 
-v0.1
+Applicants:
+- Start with templates/minimal.md.
+- Use templates/full.md when the work has material risk, complex milestones, custody surfaces, or high budget.
 
-This is an initial public release.
-The template is intentionally minimal and text based.
+Evaluators:
+- Use the same structure to request clarifications.
+- Treat disclosure as information, not a scoring system.
 
-Using the Template
+## What This Is Not
 
-Copy the template into your own proposal document and fill it out there.
+PDS is not:
+- a mandate or compliance requirement
+- a scoring or ranking framework
+- an audit, enforcement, or governance mechanism
+- legal, security, or regulatory advice
 
-Template (raw markdown):
-https://raw.githubusercontent.com/ShieldOrder/proposal-disclosure-schema/main/Template.md
+## Repository Map
 
-Use of this template is optional.
-Using it does not influence approval or rejection outcomes.
+- templates/
+  - minimal.md
+  - full.md
+- docs/
+  - posture and guidance
+- examples/
+  - filled examples (optional and illustrative)
 
-Design Principles
+## License
 
-- voluntary
-- text-first
-- non-automated
-- reasoning disclosed, conclusions untouched
-- evaluator discretion preserved
-- ambiguity surfaced without penalty
-
-Authorship
-
-This repository is a process artifact.
-Its value should be judged by whether it improves proposal clarity in practice.
-
-Related Work
-
-The [Process Layer Doctrine](https://github.com/ShieldOrder/process-layer-doctrine) defines execution hygiene for governance and funding systems.
-
-Together:
-- PLD defines how evaluation and execution processes are made legible
-- PDS defines what applicants may disclose to reduce ambiguity voluntarily
-
-License
-
-CC0. Use, modify, fork, or ignore freely.
+CC0
+EOF
