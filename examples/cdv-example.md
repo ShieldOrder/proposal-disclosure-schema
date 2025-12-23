@@ -1,3 +1,6 @@
+This document is an illustrative example of a completed disclosure.
+It does not imply endorsement, approval, or recommended structure beyond the underlying template.
+
 # Example Disclosure
 Coinholder-Directed Retroactive Grants (Illustrative)
 Applied to Feedback Gap Raised by TS
