@@ -1,58 +1,178 @@
-# Proposal Disclosure Schema (PDS)
+# Proposal Disclosure Schema
 
-Opt-in disclosure templates to make grant proposals and evaluations more legible and comparable over time.
+## Reference Statement
 
-Posture: descriptive, mechanism-neutral, non-prescriptive, non-authoritative. See docs/POSTURE.md.
+The Proposal Disclosure Schema (PDS) is a voluntary disclosure framework intended to improve proposal clarity, legibility, and verification.
+
+PDS does not determine funding outcomes.
+It does not assert requirements, compliance, or approval criteria.
+
+PDS provides a structured way for applicants to make assumptions, constraints, risks, and verification surfaces explicit so that reviewers and observers can reason about proposals with fewer hidden variables.
+
+This repository provides reference templates and examples.
+It does not claim consensus, endorsement, or authority beyond its own internal coherence.
 
 ## Purpose
 
-PDS helps applicants and evaluators surface assumptions, constraints, risks, dependencies, and verification surfaces using a consistent structure.
+PDS exists to:
 
-It is intended to:
-- reduce ambiguity
-- improve comparability across proposals
-- make verification expectations explicit
-- support continuity across committee turnover
+- Reduce ambiguity in written proposals
+- Surface assumptions that are often implicit
+- Separate claims from verification surfaces
+- Improve reviewer and observer understanding without enforcing behavior
 
-PDS does not claim endorsement, delegation, or institutional standing.
+PDS treats disclosure as infrastructure, not as a gatekeeping mechanism.
 
-## Two Templates
+## Scope
 
-- Minimal Template (adoption-first)
-  - 10 questions
-  - designed for low friction
+PDS applies to contexts where:
 
-- Full Template (depth-first)
-  - comprehensive disclosure surface
-  - intended for complex or high-risk proposals
+- Proposals request funding, resources, or delegated authority
+- Outcomes must be evaluated over time
+- Verification depends on artifacts rather than intent
+- Reviewers must reason under uncertainty
 
-## How to Use
+PDS does not assume good faith or bad faith.
+It assumes incomplete information.
 
-Applicants:
-- Start with templates/minimal.md.
-- Use templates/full.md when the work has material risk, complex milestones, custody surfaces, or high budget.
+## Voluntary and Non-Authoritative Posture
 
-Evaluators:
-- Use the same structure to request clarifications.
-- Treat disclosure as information, not a scoring system.
+Use of PDS is optional.
 
-## What This Is Not
+- Completing a PDS does not imply approval, compliance, or endorsement
+- Omitting sections does not constitute deficiency
+- Non-use of PDS carries no negative signal within this framework
 
-PDS is not:
-- a mandate or compliance requirement
-- a scoring or ranking framework
-- an audit, enforcement, or governance mechanism
-- legal, security, or regulatory advice
+PDS does not bind reviewers, committees, or institutions.
+It does not replace discretion.
 
-## Repository Map
+## Schema Structure
 
-- templates/
-  - minimal.md
-  - full.md
-- docs/
-  - posture and guidance
-- examples/
-  - filled examples (optional and illustrative)
+PDS is organized into two disclosure tiers:
+
+### PDS-Minimal
+
+A lightweight disclosure intended for:
+
+- Small or simple proposals
+- Low-risk or short-duration work
+- Requests where full disclosure overhead would be counterproductive
+
+PDS-Minimal focuses on:
+
+- What is being proposed
+- Why it matters
+- What success looks like
+- What could go wrong
+
+### PDS-Full
+
+A comprehensive disclosure intended for:
+
+- Complex proposals
+- Long-running or high-budget work
+- Systems with meaningful execution or custody risk
+
+PDS-Full expands disclosure to include:
+
+- Explicit scope boundaries and non-goals
+- Dependency and assumption surfaces
+- Risk and failure modes
+- Verification methods and evidence artifacts
+
+Applicants may choose either tier, adapt them, or mix elements as appropriate.
+
+## Core Disclosure Dimensions
+
+Across both tiers, PDS organizes disclosure around five dimensions:
+
+1. Impact  
+What change the proposal intends to produce and for whom.
+
+2. Clarity  
+What is in scope, out of scope, and explicitly not being attempted.
+
+3. Alignment  
+How the proposal relates to stated ecosystem or institutional goals, if any.
+
+4. Deliverability  
+What will be produced, under what constraints, and with what dependencies.
+
+5. Verification  
+How outcomes could be evaluated using observable artifacts.
+
+These dimensions are descriptive prompts, not scoring criteria.
+
+## Verification Versus Acceptance
+
+PDS distinguishes between:
+
+- Acceptance criteria  
+Statements describing what completion or success would look like from the proposer’s perspective.
+
+- Verification surfaces  
+Artifacts or signals that could allow others to independently assess progress or outcomes.
+
+Acceptance criteria express intent.
+Verification surfaces support inspection.
+
+They may overlap but serve different functions.
+
+## Artifacts
+
+PDS treats artifacts as evidence surfaces, not proof of merit.
+
+Artifacts may include:
+
+- Written specifications or documentation
+- Code repositories and commits
+- Test results or reproducible checks
+- Milestone reports
+- Deployment evidence or usage metrics
+
+Artifacts do not include:
+
+- Verbal assurances
+- Private communications unless disclosed
+- Retrospective narratives unsupported by contemporaneous records
+
+## Examples
+
+Examples in this repository are illustrative only.
+
+They are derived from publicly described work and are not endorsements, evaluations, or recommendations.
+
+Examples demonstrate how information might be disclosed, not how proposals should be judged.
+
+## Relationship to the Process Layer Doctrine
+
+PDS is complementary to the Process Layer Doctrine (PLD).
+
+- PLD focuses on evaluator and system-side process hygiene
+- PDS focuses on applicant-side disclosure clarity
+
+PDS does not require PLD, and PLD does not require PDS.
+They may be used independently.
+
+## Versioning and Evolution
+
+The current version of PDS is defined in the repository root.
+
+Versioning intent:
+
+- Patch releases may clarify language or framing without changing disclosure intent
+- Structural changes to templates require explicit version increments
+- Examples may evolve independently of schema versions
+
+Deprecated versions remain accessible for historical reference.
+
+## Status
+
+v0.1.1
+
+This repository contains a reference formulation of the Proposal Disclosure Schema and illustrative examples.
+
+No authority, mandates, or prescriptions are asserted.
 
 ## License
 
