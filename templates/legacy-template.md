@@ -10,7 +10,7 @@ This template is no longer maintained as a primary disclosure surface.
 
 # Proposal Disclosure Schema — Reference Template
 
-Disclosure Template v0.1.1
+Disclosure Template v0.1.1 (reference)
 
 ---
 
@@ -147,7 +147,7 @@ Limits, ambiguities, or caveats in how outcomes could be assessed.
 [Your response]
 
 Stop or pause signals.
-Conditions under which continuing the work may no longer make sense.
+Conditions under which, from the proposer’s perspective, continuing the work may no longer make sense.
 
 [Your response]
 
