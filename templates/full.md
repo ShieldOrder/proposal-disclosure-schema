@@ -1,6 +1,10 @@
 # Proposal Disclosure Schema (Full)
 
 This template is opt-in. It is intended to improve clarity and verification, not to enforce compliance.
+This disclosure template is voluntary and descriptive.
+Completing this template does not imply approval, compliance, or endorsement.
+The template is intended to improve clarity and reduce ambiguity for reviewers and observers.
+Omission or variation does not constitute deficiency.
 
 ## A. Summary
 
